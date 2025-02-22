@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/ShaheDevise/ShaheDevise/blob/main/g_banner.jpg)
+![MasterHead](https://github.com/iamalshahed/iamalshahed/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm AL Shahed Bishwas</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
