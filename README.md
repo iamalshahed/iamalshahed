@@ -117,6 +117,10 @@
 
 <br>
 
+![iamalshahed's Stats](https://github-readme-stats.vercel.app/api?username=iamalshahed&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![iamalshahed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamalshahed&theme=vue-dark&hide_border=true)
+![iamalshahed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamalshahed&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
  ![Shahed's States](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamalshahed&theme=darcula)
  ![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamalshahed&theme=darcula)
  ![Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamalshahed&theme=darcula)
