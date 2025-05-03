@@ -17,9 +17,9 @@
 ###
 
 ###
-- 🔭 I’m currently working on **Hablu Programmer**
+- 🔭 I’m currently learn programming on **Hablu Programmer**
 
-- 🌱 I’m currently learning **Reach, Next, TypeScript**
+- 🌱 I’m currently learning **React, Next, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamalshahed](https://github.com/iamalshahed)
 
