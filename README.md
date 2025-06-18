@@ -1,4 +1,4 @@
-![I'm Shahed](https://github.com/iamalshahed/iamalshahed/blob/main/banner.jpg)
+![I'm Shahed](https://github.com/iamalshahed/iamalshahed/blob/main/banner.png)
 
 ###
 
