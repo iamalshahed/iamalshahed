@@ -1,129 +1,142 @@
-![I'm Shahed](https://github.com/iamalshahed/iamalshahed/blob/main/banner.jpg)
+<h2 align="left">Hey there, I'm AL Shahed</h2>
 
 ###
-
-<h1 align="center">Hey 👋, I'm MD. AL Shahed Bishwas</h1>
-
-###
-
-<h3 align="center">Programmer | Full Stack Web Developer | Speed Learner</h3>
-
-###
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamalshahed&label=Profile%20views&color=0e75b6&style=flat" alt="iamalshahed" /> </p>
-
-<p align="center">Skills: HTML / CSS / Git / GitHub / JavaScript / React / Redux / Next.js / TypeScript / PHP / MySQL / Laravel</p>
-
-###
-
-###
-- 🔭 I’m currently learn programming on **Hablu Programmer**
-
-- 🌱 I’m currently learning **React, Next, TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/iamalshahed](https://github.com/iamalshahed)
-
-- 💬 Ask me about **HTML, CSS, JS, Tailwind, React, Next, TypeScript, PHP, MySQL, Laravel**
-
-- 📫 How to reach me **shahedevise@gmail.com**
-
-- ⚡ Fun fact **I'm Notti Boy😁**
-<br>
-
-### Connect With Me:
-<div align="center">
-  <a href="https://facebook.com/iamalshahed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/iamalshahed/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/iamalshahed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/iamalshahed/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1326255849383006238" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
 
 <div align="left">
-  
-  
-  
-  
-  
-  
+  <a href="discordapp.com/users/1326255849383006238" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/iamalshahed/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/iamalshahed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/iamalshahed/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/iamalshahed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
 
-###
-
-
-<h3 align="left">🚀 Technologies</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><br>React JS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><br>Redux
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="55" alt="tailwindcss logo"  /><br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" alt="nextjs logo"  /><br>Next.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" alt="php logo"  /><br>PHP
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="55" alt="laravel logo"  /><br>Laravel
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo"  /><br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="github logo"  /><br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><br>Sass
-    </td>
-  </tr>
-</table>
+<h4 align="left">Glad to see you here! 😍</h4>
 
 ###
 
+<p align="left">I am an enthusiastic self-taught programmer from Bangladesh.</p>
+
 ###
-<br>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamalshahed" alt="iamalshahed" /></a> </p>
 
-<br>
+<p align="left">- 📚 I'm currently learning MERN STACK</p>
 
-![iamalshahed's Stats](https://github-readme-stats.vercel.app/api?username=iamalshahed&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![iamalshahed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamalshahed&theme=vue-dark&hide_border=true)
-![iamalshahed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamalshahed&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+###
 
- ![Shahed's States](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamalshahed&theme=darcula)
- ![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamalshahed&theme=darcula)
- ![Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamalshahed&theme=darcula)
- ![Stayes](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamalshahed&theme=darcula)
- ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamalshahed&theme=darcula&utcOffset=8)
- [![Shahed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamalshahed&bg_color=121212&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">- ⚙️ Mastered: HTML5, CSS3, Bootstrap, Tailwind CSS</p>
+
+###
+
+<p align="left">- 👨‍💻 All of my projects are available at [https://github.com/iamalshahed](here)</p>
+
+###
+
+<p align="left">- 📫 How to reach me: [shahedevise@gmail.com](me@shahed.com)</p>
+
+###
+
+<p align="left">- 🎯 Goals: Contribute more to Open Source projects 👨‍💻</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamalshahed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamalshahed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h4 align="left">Languages and Tools:</h4>
+
+###
+
+<h5 align="left">📋 Languages</h5>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="30" alt="markdown logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo"  />
+</div>
+
+###
+
+<h5 align="left">⚛️ Frameworks and libraries</h5>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="30" alt="threejs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="30" alt="materialui logo"  />
+</div>
+
+###
+
+<h5 align="left">🗄️ Databases and cloud hosting</h5>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" height="30" alt="heroku logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="30" alt="netlify logo"  />
+</div>
+
+###
+
+<h5 align="left">🖥️ Operating System / IDE's</h5>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="30" alt="windows8 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="30" alt="apple logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamalshahed&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
