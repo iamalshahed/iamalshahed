@@ -1,4 +1,4 @@
-<h2 align="left">Hey there, I'm AL Shahed</h2>
+<h1 align="left">Hey there, I'm AL Shahed</h1>
 
 ###
 
@@ -26,27 +26,11 @@
 
 ###
 
-<p align="left">I am an enthusiastic self-taught programmer from Bangladesh.</p>
-
-###
-
-<p align="left">- 📚 I'm currently learning MERN STACK</p>
-
-###
-
-<p align="left">- ⚙️ Mastered: HTML5, CSS3, Bootstrap, Tailwind CSS</p>
-
-###
-
-<p align="left">- 👨‍💻 All of my projects are available at [https://github.com/iamalshahed](here)</p>
-
-###
-
-<p align="left">- 📫 How to reach me: [shahedevise@gmail.com](me@shahed.com)</p>
-
-###
-
-<p align="left">- 🎯 Goals: Contribute more to Open Source projects 👨‍💻</p>
+- 📚 I'm currently learning **MERN STACK**
+- ⚙️ Mastered: HTML5, CSS3, Bootstrap, Tailwind CSS
+- 👨‍💻 All of my projects are available at [here](https://github.com/iamalshahed)
+- 📫 How to reach me: [me@shahed.com](shahedevise@gmail.com)
+- 🎯 Goals: **Contribute** more to **Open Source projects 👨‍💻**
 
 ###
 
