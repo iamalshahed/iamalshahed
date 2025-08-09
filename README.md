@@ -22,14 +22,16 @@
 
 ###
 
-<h4 align="left">Glad to see you here! 😍</h4>
+<h3 align="left">Glad to see you here! 😍</h3>
+
+#### I'm an enthusiastic self-taught programmer from Bangladesh.
 
 ###
 
 - 📚 I'm currently learning **MERN STACK**
 - ⚙️ Mastered: HTML5, CSS3, Bootstrap, Tailwind CSS
 - 👨‍💻 All of my projects are available at [here](https://github.com/iamalshahed)
-- 📫 How to reach me: [me@shahed.com](shahedevise@gmail.com)
+- 📫 How to reach me: [me@shahed.com](mailto:shahedevise@gmail.com)
 - 🎯 Goals: **Contribute** more to **Open Source projects 👨‍💻**
 
 ###
@@ -41,11 +43,11 @@
 
 ###
 
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
-<h5 align="left">📋 Languages</h5>
+<h4 align="left">📋 Languages</h4>
 
 ###
 
@@ -61,7 +63,7 @@
 
 ###
 
-<h5 align="left">⚛️ Frameworks and libraries</h5>
+<h4 align="left">⚛️ Frameworks and libraries</h4>
 
 ###
 
@@ -87,7 +89,7 @@
 
 ###
 
-<h5 align="left">🗄️ Databases and cloud hosting</h5>
+<h4 align="left">🗄️ Databases and cloud hosting</h4>
 
 ###
 
@@ -105,7 +107,7 @@
 
 ###
 
-<h5 align="left">🖥️ Operating System / IDE's</h5>
+<h4 align="left">🖥️ Operating System / IDE's</h4>
 
 ###
 
