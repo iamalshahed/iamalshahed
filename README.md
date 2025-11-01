@@ -121,8 +121,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamalshahed&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+  <h1 align="center">Contribution Graph</h1>
+
+  [![AL Shahed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamalshahed&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
