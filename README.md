@@ -15,3 +15,7 @@ My main tech stacks are **MongoDB**, **Express**, **React** and **Node.js**.
 - [**Twitter (X)**](https://x.com/iamalshahed)
 - [**Linkedin**](https://www.linkedin.com/in/iamalshahed)
 - [**Discord**](discordapp.com/users/1326255849383006238)
+
+###
+
+[![AL Shahed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamalshahed&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
