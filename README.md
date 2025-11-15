@@ -1,128 +1,17 @@
-<h1 align="left">Hey there, I'm AL Shahed</h1>
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-###
+I am **Shahed**, a junior **MERN Stack** developer from Bangladesh.
 
-<div align="left">
-  <a href="discordapp.com/users/1326255849383006238" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/iamalshahed/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/iamalshahed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/iamalshahed/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/iamalshahed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
-  </a>
-</div>
+I can create websites that can increase your business sales.
 
-###
+I am currently learning and working on the **MERN Stack**.
 
-<h3 align="left">Glad to see you here! 😍</h3>
+My main tech stacks are **MongoDB**, **Express**, **React** and **Node.js**.
 
-#### I'm an enthusiastic self-taught programmer from Bangladesh.
+#### How to reach me:
 
-###
-
-- 📚 I'm currently learning **MERN STACK**
-- ⚙️ Mastered: HTML5, CSS3, Bootstrap, Tailwind CSS
-- 👨‍💻 All of my projects are available at [here](https://github.com/iamalshahed)
-- 📫 How to reach me: [me@shahed.com](mailto:shahedevise@gmail.com)
-- 🎯 Goals: **Contribute** more to **Open Source projects 👨‍💻**
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamalshahed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamalshahed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">Languages and Tools:</h3>
-
-###
-
-<h4 align="left">📋 Languages</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="30" alt="markdown logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo"  />
-</div>
-
-###
-
-<h4 align="left">⚛️ Frameworks and libraries</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="30" alt="threejs logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="30" alt="materialui logo"  />
-</div>
-
-###
-
-<h4 align="left">🗄️ Databases and cloud hosting</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" height="30" alt="heroku logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="30" alt="netlify logo"  />
-</div>
-
-###
-
-<h4 align="left">🖥️ Operating System / IDE's</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="30" alt="windows8 logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="30" alt="apple logo"  />
-</div>
-
-###
-
-  <h1 align="center">Contribution Graph</h1>
-
-  [![AL Shahed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamalshahed&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-###
+- [**Facebook**](https://www.facebook.com/iamalshahed)
+- [**Instagram**](https://www.instagram.com/iamalshahed)
+- [**Twitter (X)**](https://x.com/iamalshahed)
+- [**Linkedin**](https://www.linkedin.com/in/iamalshahed)
+- [**Discord**](discordapp.com/users/1326255849383006238)
